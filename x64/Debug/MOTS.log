@@ -1,0 +1,13 @@
+﻿  Emenu.cpp
+c:\users\pi4yka\desktop\0.9.3\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  Enemy.cpp
+c:\users\pi4yka\desktop\0.9.3\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  game.cpp
+c:\users\pi4yka\desktop\0.9.3\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  main.cpp
+c:\users\pi4yka\desktop\0.9.3\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  Menu.cpp
+c:\users\pi4yka\desktop\0.9.3\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  Player.cpp
+c:\users\pi4yka\desktop\0.9.3\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  Создание кода...
